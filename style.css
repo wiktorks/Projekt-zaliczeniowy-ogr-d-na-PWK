@@ -1,0 +1,18 @@
+body {
+    background-color: #2E2D2E;
+    color: #fff;
+}
+
+.main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+canvas {
+    /* border: 1px solid red; */
+    margin-bottom: 50px;
+    background-color: #b1fc75;
+}
